@@ -34,9 +34,7 @@ Depois, exiba a string repetida o número de vezes informado.
 
 ### 🧩 Exemplo de Código:
 
-```python
-
-```
+[📂 Ver código - `repete_textos.py`](./src/repete_textos.py)
 
 ## 📘 O que aprenderemos:
 
@@ -55,16 +53,7 @@ Solicite dois números e realize uma **operação matemática simples** entre el
 
 ### 🧩 Exemplo de Código:
 
-```python
-# operacoes_matematicas.py
-
-# Solicita os números ao usuário
-num1 = float(input("Digite o primeiro número: "))
-num2 = float(input("Digite o segundo número: "))
-
-# Solicita a operação desejada
-
-```
+[📂 Ver código - `operacoes_matematicas`](./src/operacoes_matematicas.py)
 
 ## 📘 O que aprenderemos:
 
