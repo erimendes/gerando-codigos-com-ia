@@ -14,7 +14,7 @@ Crie um programa em Python que receba, pelo terminal, **duas strings** e as **co
 
 ### 🧩 Exemplo de Código:
 
-[📂 Ver arquivo no repositório — `concatena_strings.py`](concatena_strings.py)
+[📂 Ver código — `concatena_strings.py`](./src/concatena_strings.py)
 
 
 ## 📘 O que aprenderemos:
