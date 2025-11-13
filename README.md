@@ -53,7 +53,7 @@ Solicite dois números e realize uma **operação matemática simples** entre el
 
 ### 🧩 Exemplo de Código:
 
-[📂 Ver código - `operacoes_matematicas`](./src/operacoes_matematicas.py)
+[📂 Ver código - `operacoes_matematicas.py`](./src/operacoes_matematicas.py)
 
 ## 📘 O que aprenderemos:
 
