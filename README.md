@@ -7,14 +7,14 @@ Cada exercício tem como objetivo reforçar conceitos fundamentais da linguagem 
 
 ---
 
-## 1️⃣ Concatenando Dados 🐾
+## 1️⃣ Concatenando strings 🔤🔗🔤
 
 **Descrição:**  
 Criar um programa em Python que receba, pelo terminal, **duas strings** e as **concatene**, exibindo o resultado como uma única string.
 
 ### 🧩 Exemplo de Código:
 
-[📂 Ver código — `concatena_strings.py`](./src/concatena_strings.py)
+[📂 Ver código - `concatena_strings.py`](./src/concatena_strings.py)
 
 
 ## 📘 O que aprenderemos:
@@ -46,7 +46,7 @@ Depois, exiba a string repetida o número de vezes informado.
 
 ---
 
-## 3️⃣ Operações Matemáticas Simples 📐
+## 3️⃣ Operações Matemáticas Simples 🧮 ➕ ➖ ✖️ ➗
 
 **Descrição:**  
 Solicitar dois números e um operador, e depois realizar uma **operação matemática simples** entre eles (como soma, subtração, multiplicação, divisão, ou outras).
